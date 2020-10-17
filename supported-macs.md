@@ -7,7 +7,7 @@ description: >-
 
 # Supported Macs
 
-**Note: This list is by BarryKN for his patcher, but our patchers are similar, so this list should apply to both. I'm including it here for ease of use.**
+**Note: This list is by Barry K. N. for his patcher, but our patchers are similar, so this list should apply to both. I'm including it here for ease of use.**
 
 Remember that this information is incomplete and may not be 100% correct yet, but I'll add more information over time and fix any errors as I learn about them.
 
@@ -27,6 +27,7 @@ By the way, with the exception of Mac Pros, all of the Macs in this section offi
 * Late 2013 iMac: Everything should work \(and, after step 14, you're finished -- no need for step 15 and later\). Note that there have been some reports of very poor performance with Fusion Drives on this model when running Big Sur, which may be why Apple does not support Big Sur on this model.
 * 2010/2012 Mac Pro: I have received positive feedback about this patcher, but I do not know which features work perfectly and which don't. If I had to guess which features might be problematic, I would guess sleep and Wi-Fi. patch-kexts.sh \(step 15\) should fix Wi-Fi, but I don't know what effect it might have on sleep. \(You should upgrade the graphics card, as you would for official compatibility with macOS Mojave.\)
 * 2009 Mac Pro: Once it's flashed to MacPro5,1 firmware, it should be equivalent to a 2010/2012 Mac Pro. \(As with those, you will want to upgrade to a Mojave-compatible graphics card.\) However, note that some people have had their flashed MacPro4,1s enter boot loops during installation. We don't yet know what causes this or why it only happens sometimes.
+* 2012 MacBook Pro: Everything except WiFi works after installation, but there is a patch for it, so it'll work fine with Big Sur.
 * Other 2012/2013 Macs: Most things should work after the initial installation, except for Wi-Fi \(unless you have upgraded to an 802.11ac Wi-Fi card\) or possibly GPU switching \(on 15" MacBook Pros\). Step 15 of the installation process fixes Wi-Fi support, but GPU switching may not yet be a solved problem.
 
 ## Partially Supported Macs

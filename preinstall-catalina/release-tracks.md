@@ -10,7 +10,7 @@ Update tracks are what kind of macOS versions you want to get in each update.  F
 
 ### Release Track
 
-The release track is the defualt and most stable update track. This track contains the macOS updates you would get normally if you were on a supported Mac and did not install a configuration profile to change it.
+The release track is the defualt and most stable update track. This track contains the macOS updates you would get normally if you were on a supported Mac and did not install a configuration profile to change it. More likely than not, this is the track you want to be on.
 
 ### Public Beta Track
 

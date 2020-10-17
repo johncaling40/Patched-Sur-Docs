@@ -1,16 +1,17 @@
 ---
 description: >-
   Which unsupported Macs are supported. How can they be both? They are
-  unsupported according to Apple, supported according to me. Thanks to @BarryKN
-  for making this list.
+  unsupported according to Apple, supported according to me. This list is by
+  Barry K. N. for his patcher, but it applies here as well
 ---
 
 # Supported Macs
 
-**Note: This list is by Barry K. N. for his patcher, but our patchers are similar, so this list should apply to both. I'm including it here for ease of use.**
-
+{% hint style="warning" %}
 Remember that this information is incomplete and may not be 100% correct yet, but I'll add more information over time and fix any errors as I learn about them.
+{% endhint %}
 
+{% hint style="danger" %}
 Also, note that on 2011 and earlier Macs, "no graphics acceleration" is a tremendous, almost exponential, slowdown. For instance, consider a simple benchmark, simply minimizing a Safari window:
 
 * Late 2012 13" MacBook Pro: &lt;1 second
@@ -18,6 +19,7 @@ Also, note that on 2011 and earlier Macs, "no graphics acceleration" is a tremen
 * Late 2009 13" MacBook: 25 seconds
 
 Keep in mind, Mojave and Catalina will probably receive security updates until roughly September 2021 and September 2022 respectively \(give or take a month\), so most users do not need to urgently upgrade to Big Sur.
+{% endhint %}
 
 ## Mostly/Fully Supported Macs
 

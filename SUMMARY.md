@@ -7,4 +7,5 @@
 ## Preinstall \(Catalina\)
 
 * [Starting Out](preinstall-catalina/starting-out.md)
+* [Release Tracks](preinstall-catalina/release-tracks.md)
 

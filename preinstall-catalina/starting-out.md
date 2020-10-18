@@ -8,5 +8,9 @@ First of all, you'll need to ge the latest version of Patched Sur, which you can
 
 {% page-ref page="release-tracks.md" %}
 
+{% page-ref page="install-method.md" %}
+
+
+
 
 

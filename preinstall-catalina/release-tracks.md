@@ -18,5 +18,5 @@ The public beta track is the beta that's stable enough for some of the public to
 
 ### Developer Beta Track
 
-The developer beta track is the beta designed for developers so they can prepare their apps to use the latest features of macOS for their users. This track is the most unstable of all, but that doesn't mean it can't be stable at times.
+The developer beta track is the beta designed for developers so they can prepare their apps to use the latest features of macOS for their users. This track is the most unstable of all, but that doesn't mean it can't be stable at times. 
 
